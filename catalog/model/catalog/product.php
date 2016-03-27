@@ -152,6 +152,7 @@ class ModelCatalogProduct extends Model {
 			'p.price',
 			'rating',
 			'p.sort_order',
+			'p.date_modified',
 			'p.date_added'
 		);
 
